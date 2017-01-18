@@ -1,3 +1,1 @@
-exercise-repo
-This project will contain...
-Repository made for exercise and testing 
+Repository made for exercise and testing This project will contain...exercise-repo
