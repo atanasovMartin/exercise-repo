@@ -1,2 +1,3 @@
 # exercise-repo
-repo made for exercise
+This project will contain...
+Repository made for exercise and testing 
