@@ -1,1 +1,4 @@
-Repository made for exercise and testing This project will contain...exercise-repo
+exercise -repo 
+this project will contain ..... 
+Repositority made for exercises.
+Edited again in master branch 
