@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\bin\Debug\square area.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\obj\Debug\square area.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\bin\Debug\square area.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\bin\Debug\square area.pdb
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\obj\Debug\square area.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\square area\obj\Debug\square area.pdb

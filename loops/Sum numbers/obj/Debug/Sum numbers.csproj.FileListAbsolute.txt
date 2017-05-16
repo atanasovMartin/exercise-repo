@@ -1,0 +1,5 @@
+c:\users\marti\documents\visual studio 2015\Projects\loops\Sum numbers\bin\Debug\Sum numbers.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\loops\Sum numbers\bin\Debug\Sum numbers.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\Sum numbers\bin\Debug\Sum numbers.pdb
+c:\users\marti\documents\visual studio 2015\Projects\loops\Sum numbers\obj\Debug\Sum numbers.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\Sum numbers\obj\Debug\Sum numbers.pdb

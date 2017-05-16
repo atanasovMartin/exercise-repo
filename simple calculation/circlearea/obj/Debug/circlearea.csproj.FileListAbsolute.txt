@@ -1,0 +1,5 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\circlearea\bin\Debug\circlearea.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\circlearea\bin\Debug\circlearea.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\circlearea\bin\Debug\circlearea.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\circlearea\obj\Debug\circlearea.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\circlearea\obj\Debug\circlearea.pdb

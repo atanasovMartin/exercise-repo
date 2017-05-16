@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\bin\Debug\even_or_odd.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\bin\Debug\even_or_odd.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\bin\Debug\even_or_odd.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\obj\Debug\even_or_odd.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\obj\Debug\even_or_odd.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\even_or_odd\obj\Debug\even_or_odd.pdb

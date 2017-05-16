@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\bin\Debug\squareN-N.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\bin\Debug\squareN-N.exe
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\bin\Debug\squareN-N.pdb
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\obj\Debug\squareN-N.csprojResolveAssemblyReference.cache
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\obj\Debug\squareN-N.exe
+c:\users\marti\documents\visual studio 2015\Projects\Solution2\squareN-N\obj\Debug\squareN-N.pdb

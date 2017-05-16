@@ -1,0 +1,5 @@
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\inch to cm\bin\Debug\inch to cm.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\inch to cm\bin\Debug\inch to cm.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\inch to cm\bin\Debug\inch to cm.pdb
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\inch to cm\obj\Debug\inch to cm.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\inch to cm\obj\Debug\inch to cm.pdb

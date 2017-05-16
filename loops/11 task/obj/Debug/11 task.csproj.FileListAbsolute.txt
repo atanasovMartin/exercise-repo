@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\bin\Debug\11 task.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\obj\Debug\11 task.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\bin\Debug\11 task.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\bin\Debug\11 task.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\obj\Debug\11 task.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\11 task\obj\Debug\11 task.pdb

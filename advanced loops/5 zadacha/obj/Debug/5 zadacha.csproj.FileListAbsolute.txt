@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\5 zadacha\bin\Debug\5 zadacha.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\5 zadacha\bin\Debug\5 zadacha.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\5 zadacha\bin\Debug\5 zadacha.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\5 zadacha\obj\Debug\5 zadacha.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\5 zadacha\obj\Debug\5 zadacha.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\advanced loops\5 zadacha\obj\Debug\5 zadacha.csprojResolveAssemblyReference.cache

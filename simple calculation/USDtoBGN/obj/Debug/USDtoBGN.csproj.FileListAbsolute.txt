@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\obj\Debug\USDtoBGN.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\USDtoBGN\obj\Debug\USDtoBGN.csprojResolveAssemblyReference.cache

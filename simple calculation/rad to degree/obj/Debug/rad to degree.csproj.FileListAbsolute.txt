@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\bin\Debug\rad to degree.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\bin\Debug\rad to degree.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\bin\Debug\rad to degree.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\obj\Debug\rad to degree.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\obj\Debug\rad to degree.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\rad to degree\obj\Debug\rad to degree.pdb

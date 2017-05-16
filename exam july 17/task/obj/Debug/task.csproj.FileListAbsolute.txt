@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\exam july 17\task\bin\Debug\task.exe.config
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\exam july 17\task\bin\Debug\task.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\exam july 17\task\bin\Debug\task.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\exam july 17\task\obj\Debug\task.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\exam july 17\task\obj\Debug\task.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\bin\Debug\task1.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\bin\Debug\task1.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\bin\Debug\task1.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\obj\Debug\task1.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\exam july 17\task1\obj\Debug\task1.pdb

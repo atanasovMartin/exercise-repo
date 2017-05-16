@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\bin\Debug\12.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\bin\Debug\12.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\bin\Debug\12.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\obj\Debug\12.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\obj\Debug\12.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\12\obj\Debug\12.pdb

@@ -1,0 +1,5 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\lice na truigulnik\bin\Debug\lice na truigulnik.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\lice na truigulnik\bin\Debug\lice na truigulnik.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\lice na truigulnik\bin\Debug\lice na truigulnik.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\lice na truigulnik\obj\Debug\lice na truigulnik.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\lice na truigulnik\obj\Debug\lice na truigulnik.pdb

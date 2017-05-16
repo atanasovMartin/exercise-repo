@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\bin\Debug\triangleFrom$.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\bin\Debug\triangleFrom$.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\bin\Debug\triangleFrom$.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\obj\Debug\triangleFrom$.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\obj\Debug\triangleFrom$.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\Solution2\triangleFrom$\obj\Debug\triangleFrom$.pdb

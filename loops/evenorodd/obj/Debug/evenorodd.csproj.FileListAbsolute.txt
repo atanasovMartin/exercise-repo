@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\bin\Debug\evenorodd.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\obj\Debug\evenorodd.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\bin\Debug\evenorodd.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\bin\Debug\evenorodd.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\obj\Debug\evenorodd.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\evenorodd\obj\Debug\evenorodd.pdb

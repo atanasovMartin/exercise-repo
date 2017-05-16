@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squareN-N", "squareN-N\squareN-N.csproj", "{7140CBBC-0FA4-4B55-9F3D-F409A4466A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangleFrom$", "triangleFrom$\triangleFrom$.csproj", "{CA71EA0A-F955-4BEA-99FB-A089D914B5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7140CBBC-0FA4-4B55-9F3D-F409A4466A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7140CBBC-0FA4-4B55-9F3D-F409A4466A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7140CBBC-0FA4-4B55-9F3D-F409A4466A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7140CBBC-0FA4-4B55-9F3D-F409A4466A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA71EA0A-F955-4BEA-99FB-A089D914B5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA71EA0A-F955-4BEA-99FB-A089D914B5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA71EA0A-F955-4BEA-99FB-A089D914B5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA71EA0A-F955-4BEA-99FB-A089D914B5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\marti\documents\visual studio 2015\Projects\loops\A_to_Z\bin\Debug\A_to_Z.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\loops\A_to_Z\bin\Debug\A_to_Z.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\A_to_Z\bin\Debug\A_to_Z.pdb
+c:\users\marti\documents\visual studio 2015\Projects\loops\A_to_Z\obj\Debug\A_to_Z.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\A_to_Z\obj\Debug\A_to_Z.pdb

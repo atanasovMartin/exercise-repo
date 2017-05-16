@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\bin\Debug\converter c-f.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\obj\Debug\converter c-f.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\bin\Debug\converter c-f.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\bin\Debug\converter c-f.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\obj\Debug\converter c-f.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\converter c-f\obj\Debug\converter c-f.pdb

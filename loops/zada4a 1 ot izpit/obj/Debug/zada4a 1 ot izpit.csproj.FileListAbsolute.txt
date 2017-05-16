@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\bin\Debug\zada4a 1 ot izpit.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\bin\Debug\zada4a 1 ot izpit.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\bin\Debug\zada4a 1 ot izpit.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\obj\Debug\zada4a 1 ot izpit.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\obj\Debug\zada4a 1 ot izpit.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\zada4a 1 ot izpit\obj\Debug\zada4a 1 ot izpit.pdb

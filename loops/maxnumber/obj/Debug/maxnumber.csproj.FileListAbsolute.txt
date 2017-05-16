@@ -1,0 +1,5 @@
+c:\users\marti\documents\visual studio 2015\Projects\loops\maxnumber\bin\Debug\maxnumber.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\loops\maxnumber\bin\Debug\maxnumber.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\maxnumber\bin\Debug\maxnumber.pdb
+c:\users\marti\documents\visual studio 2015\Projects\loops\maxnumber\obj\Debug\maxnumber.exe
+c:\users\marti\documents\visual studio 2015\Projects\loops\maxnumber\obj\Debug\maxnumber.pdb

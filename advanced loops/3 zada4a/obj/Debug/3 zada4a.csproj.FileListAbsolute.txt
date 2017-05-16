@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\3 zada4a\bin\Debug\3 zada4a.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\3 zada4a\bin\Debug\3 zada4a.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\3 zada4a\bin\Debug\3 zada4a.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\3 zada4a\obj\Debug\3 zada4a.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\advanced loops\3 zada4a\obj\Debug\3 zada4a.pdb

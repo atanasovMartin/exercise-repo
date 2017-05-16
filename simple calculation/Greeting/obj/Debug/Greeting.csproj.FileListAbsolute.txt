@@ -1,0 +1,6 @@
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\bin\Debug\Greeting.exe.config
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\bin\Debug\Greeting.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\bin\Debug\Greeting.pdb
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\obj\Debug\Greeting.exe
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\obj\Debug\Greeting.pdb
+c:\users\marti\documents\visual studio 2015\Projects\simple calculation\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache

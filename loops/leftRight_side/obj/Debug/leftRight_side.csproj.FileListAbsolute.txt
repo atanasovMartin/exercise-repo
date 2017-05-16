@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\bin\Debug\leftRight_side.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\bin\Debug\leftRight_side.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\bin\Debug\leftRight_side.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\obj\Debug\leftRight_side.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\obj\Debug\leftRight_side.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\loops\leftRight_side\obj\Debug\leftRight_side.pdb

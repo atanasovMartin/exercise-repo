@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\bin\Debug\2d Rectangele.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\bin\Debug\2d Rectangele.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\bin\Debug\2d Rectangele.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\obj\Debug\2d Rectangele.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\obj\Debug\2d Rectangele.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\2d Rectangele\obj\Debug\2d Rectangele.csprojResolveAssemblyReference.cache

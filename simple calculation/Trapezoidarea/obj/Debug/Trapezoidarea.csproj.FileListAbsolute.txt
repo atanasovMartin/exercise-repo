@@ -1,0 +1,5 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\Trapezoidarea\bin\Debug\Trapezoidarea.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\Trapezoidarea\bin\Debug\Trapezoidarea.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\Trapezoidarea\bin\Debug\Trapezoidarea.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\Trapezoidarea\obj\Debug\Trapezoidarea.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\simple calculation\Trapezoidarea\obj\Debug\Trapezoidarea.pdb
